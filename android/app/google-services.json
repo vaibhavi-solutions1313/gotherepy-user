@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403966647461",
+    "project_id": "gotherapy-cb6ed",
+    "storage_bucket": "gotherapy-cb6ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403966647461:android:580a9d68a71dbbc7a9414c",
+        "android_client_info": {
+          "package_name": "com.app.gotherepy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403966647461-d8lspf0gfjjjkqovojmf0sho7ss4tdcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.gotherepy",
+            "certificate_hash": "c688405c62b69931abbfd5a2027c554615240385"
+          }
+        },
+        {
+          "client_id": "403966647461-05djo7fli7hplomo1vcm0qddg8v4ence.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnZ_4qwKvJCEYaEtMPo0N5pRk8xuKH6bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403966647461-05djo7fli7hplomo1vcm0qddg8v4ence.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
